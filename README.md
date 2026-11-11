@@ -1,7 +1,7 @@
 # 🐉 Xuanyuan World (轩辕界) — World Bible & AI Game Master System
 
-> **Versi:** 1.0 (Edisi Primordial Sembilan Urat Naga & Tiga Faksi Agung)
-> **Genre:** Xianxia · Wuxia · Hardcore Realism · Kultivasi Harmoni Alam & Tiga Jalan
+> **Versi:** 2.0 (Edisi Standar Xuantian-Style & Dinamika Penuh Tiga Faksi)
+> **Genre:** Xianxia · Wuxia · Hardcore Realism · Kultivasi Tiga Jalan (Ortodoks, Unortodoks, Demonic)
 > **Tujuan:** Panduan semesta utuh untuk roleplay xianxia bersama AI Game Master yang adil, hidup, konsisten, dan mendalam.
 
 ---
@@ -36,32 +36,33 @@ Profil Karakter Baru:
 - Nama: [Nama Karakter]
 - Asal Wilayah: Qingye Zhou (Wilayah Daun Cyan & Hutan Obat)
 - Akar Spiritual: Akar Spiritual Daun Kayu Abadi (Cyan Wood Leaf Root)
-- Afiliasi Faksi: [Ortodoks / Unortodoks / Demonic / Sanxiu]
+- Afiliasi Faksi: [Ortodoks / Unortodoks / Demonic / Sanxiu Netral]
 - Profesi Awal: Herbalis Pengumpul Obat
-- Lokasi Mulai: Desa Lembah Daun Hijau (Qingye Valley)
+- Lokasi Mulai: Desa Lembah Daun Hijau (Qingye Village)
 ```
 
 ---
 
 ## 🗺️ 10 Wilayah Utama (Zhou) Dunia Xuanyuan
 
-1. 🏛️ **Zhongzhou (中州 — Dataran Tengah):** Pusat benua netral, berdirinya Ibu Kota Kekaisaran Surgawi Xuanyuan, Menara Kuali Sembilan Naga, dan pusat pertukaran kultivator seluruh dunia.
-2. 🍃 **Qingye Zhou (青叶州 — Wilayah Daun Hijau & Kayu Suci):** Wilayah berhawa Qi Daun & Kayu purba, rumah bagi Hutan Belantara Shenye, Lembah Sejuta Daun Obat, dan Sekte Ortodoks Pelindung Alam.
-3. ⚔️ **Tianxu Zhou (天虚州 — Wilayah Pedang & Kekosongan Langit):** Pegunungan terjal markas Sekte Pedang Xuanyuan Ortodoks, puncak pedang pemutus awan dan formasi pemurnian roh.
-4. 🏔️ **Jinshan Zhou (金山州 — Wilayah Gunung Emas & Biara Bodhi):** Wilayah pegunungan logam mulia berbalut cahaya suci, kediaman Biara Bodhi Emas Ortodoks penempa fisik vajra.
-5. 🌫️ **Youwu Zhou (幽雾州 — Wilayah Kabut Ilusi & Boneka Kuno):** Wilayah Unortodoks berawa kabut tebal, pusat perajin boneka spirit, bayangan ilusi, dan persembunyian para pemikir bebas.
-6. 🏜️ **Kuangsha Zhou (狂沙州 — Wilayah Gurun Seribu Pasir):** Wilayah Unortodoks di padang pasir luas penuh batu rune purba, oasis tersembunyi, dan aliansi serikat pemburu harta bebas.
-7. 🧪 **Wanze Zhou (万泽州 — Wilayah Rawa Racun Seribu Air):** Wilayah Unortodoks dengan flora beracun unik, laboratorium alkimia tabu, dan perdagangan rahasia penawar racun langka.
-8. 🔥 **Jiuyou Zhou (九幽州 — Wilayah Jurang Api Sembilan Neraka):** Wilayah Demonic di kaldera jurang tak berdasar yang membara, istana Asura dan penempaan api darah iblis.
-9. 🩸 **Xueshan Zhou (血山州 — Wilayah Pegunungan Darah Purba):** Wilayah Demonic bertanah merah besi kaya sari darah monster primordial, istana dominasi kekuatan mutlak.
-10. ⚡ **Tianyuan Zhou (天渊州 — Zona Terlarang Jurang Kuno):** Wilayah terlarang bencana alam, anomali ruang terdistorsi, badai petir purba, dan sarang binatang bencana level dunia.
+1. 🏛️ **Zhongzhou (中州 — Dataran Tengah):** Pusat benua netral, Ibu Kota Surgawi Xuanyuan Tiandu, Menara Kuali Sembilan Naga, Pelabuhan Ombak Biru Bibo, dan Dewan Arbitrase Tiga Faksi.
+2. 🍃 **Qingye Zhou (青叶州 — Wilayah Daun Hijau & Kayu Suci):** Paru-paru benua penghasil herbal terbesar, Pohon Daun Abadi Cyan Shenshu, Kota Pohon Giok Yushu, Lembah Wanye, dan Hutan Shenye.
+3. ⚔️ **Tianxu Zhou (天虚州 — Wilayah Pedang & Kekosongan Langit):** Pegunungan terjal mencakar langit, Sekte Pedang Xuanyuan, Puncak Pemutus Awan, Kota Melayang Feijian, dan Dukuh Penempa Pojian.
+4. 🏔️ **Jinshan Zhou (金山州 — Wilayah Gunung Emas & Biara Bodhi):** Pegunungan batu mulia berkilauan, Biara Bodhi Emas Ortodoks, Kota Kubah Emas Jinding, Desa Pengungsi Teratai Emas, dan penempaan kanuragan raga Vajra.
+5. 🌫️ **Youwu Zhou (幽雾州 — Wilayah Kabut Ilusi & Boneka Kuno):** Labirin kabut perak abadi Unortodoks, Aliansi Seribu Bayang, Kota Siluet Yanying, bengkel automaton Lembah Mengyin, dan Pasar Gelap Liangying.
+6. 🏜️ **Kuangsha Zhou (狂沙州 — Wilayah Gurun Seribu Pasir):** Lautan pasir kuning Unortodoks, Kota Oasis Ganlu, Serikat Nomaden Badai Pasir, Perguruan Jimat Gurun, dan Makam Istana Pasir Terkubur.
+7. 🧪 **Wanze Zhou (万泽州 — Wilayah Rawa Racun Seribu Air):** Labirin rawa air hitam Unortodoks, Paviliun Racun Wanze di Kota Teratai Hitam Heilian, hutan jamur spora ungu, dan riset toksikologi penawar sumpah suci.
+8. 🔥 **Jiuyou Zhou (九幽州 — Wilayah Jurang Api Sembilan Neraka):** Kaldera magma vulkanik Demonic, Istana Asura di Kota Benteng Besi Youhuo, Kawah Sembilan Tingkat, penempaan meteorit gelap, dan Hukum Besi Asura.
+9. 🩸 **Xueshan Zhou (血山州 — Wilayah Pegunungan Darah Purba):** Tanah merah kaya mineral besi Demonic, Sekte Belantara Darah di Kota Guxue, Lembah Fosil Qiongqi, penempaan vitalitas raga baja, dan tradisi berburu tanpa mantra.
+10. ⚡ **Tianyuan Zhou (天渊州 — Zona Terlarang Jurang Kuno):** Robekan kehampaan kosmik seluruh benua, Pos Benteng Tiga Sumpah gabungan tiga faksi, badai petir hitam, ngarai retakan dimensi, dan kuburan kapal terbang kuno.
 
 ---
 
 ## 🌐 Organisasi Lintas Wilayah
 
-- 🚢 **Kamar Dagang Sembilan Bintang Wanxing (Wanxing Nine-Star Merchant Guild):** Penguasa armada kapal terbang (*airship*), jalur logistik batu giok roh, dan penegak status netral di seluruh kota transit perbatasan.
-- 🦅 **Serikat Pengembara Youxia Bebas (Tianya Adventurers Union):** Serikat kultivator independen (*sanxiu*) lintas faksi yang melayani misi perburuan, pengawalan kafilah, dan penyelidikan anomali purba.
+- 🚢 **Kamar Dagang Sembilan Bintang Wanxing (Wanxing Nine-Star Merchant Guild):** Penguasa armada kapal terbang (*airship*), bursa komoditas giok roh, dan penegak status netral di seluruh kota transit perbatasan.
+- 🦅 **Serikat Pengembara Youxia Bebas (Tianya Adventurers Union):** Serikat kultivator independen (*sanxiu*) lintas faksi yang melayani misi perburuan monster, pengawalan kafilah, dan ekspedisi anomali purba.
+- 🌿 **Asosiasi Tabib Penyembuh Keliling (Wandering Healers Association):** Jaringan tabib lintas tiga jalan yang mendedikasikan hidup untuk penyembuhan wabah dan suaka medis tanpa diskriminasi faksi.
 
 ---
 
